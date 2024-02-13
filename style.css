@@ -1,0 +1,95 @@
+.port{
+    background-image: url("https://res.cloudinary.com/nihars3/image/upload/v1696232927/photo-1619429858348-2d5ad1547e6c_nnvynb.jpg");
+    background-size: cover;
+   height: 300vh;
+
+}
+.item-nav:hover{
+    color: green;
+}
+.nav{
+    color: white;
+    font-family: roboto;
+    font-weight: bold;
+}
+.body-section{
+    height: 80vh;
+    
+}
+
+.box-left{
+    
+    height: 50px;
+    color: white;
+    padding: 50px;
+}
+
+.box-right{
+    
+    height: 80px;
+    color: white;
+    padding: 5px;
+    
+}
+.sre{
+    border-radius: 50%;
+    margin: 20px;
+  
+}
+.heading{
+    text-align: center;
+    color: white;
+   
+    font-size: 50px;
+    font-family:"DM Sans",sans-serif ;
+}
+.para1{
+    color: white;
+    margin: 70px;
+    font-size: 30px;
+   
+   
+}
+.row{
+    padding: 70px;
+}
+.work{
+    color: white;
+    font-size: 50px;
+    text-align: center;
+    padding-left: 650px;
+    
+}
+.contact{
+    color: white;
+    text-align: center;
+}
+
+
+
+.social-icon {
+    height: 50px;
+    padding-right: 20px;
+}
+.list-inline-item{
+    height: 600px;
+    width: 100px;
+   
+    color: white;
+    padding-left: 200px;
+    margin: 50px;
+    padding-right: 20px;
+    
+}
+.about-p{
+    color: white;
+    text-align: center;
+}
+.no{
+    padding-right: 20px;
+}
+.list-inline{
+    text-align: center;
+    margin-left: 20px;
+    margin-right: 100px;
+}
